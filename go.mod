@@ -5,8 +5,7 @@ go 1.15
 require (
 	github.com/AlecAivazis/survey/v2 v2.0.5
 	github.com/PaesslerAG/jsonpath v0.1.1 // indirect
-	github.com/docker/distribution v2.7.1+incompatible // indirect
-	github.com/fluxcd/pkg/apis/meta v0.0.2
+	github.com/docker/distribution v2.8.0+incompatible // indirect
 	github.com/fluxcd/pkg/untar v0.0.5
 	github.com/fluxcd/source-controller/api v0.2.0
 	github.com/go-logr/logr v0.2.1
@@ -45,7 +44,6 @@ require (
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
 	gopkg.in/go-playground/validator.v9 v9.31.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776
-	k8s.io/api v0.18.9
 	k8s.io/apimachinery v0.18.9
 	k8s.io/client-go v10.0.0+incompatible
 	sigs.k8s.io/controller-runtime v0.6.4
